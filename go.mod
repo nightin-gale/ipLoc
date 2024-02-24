@@ -1,3 +1,3 @@
-module github.com/nightin-gale/ipInfo
+module github.com/nightin-gale/ipLoc
 
 go 1.18
